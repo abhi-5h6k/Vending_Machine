@@ -1,1 +1,1 @@
-# Vending_MAchine
+# Vending_Machine
